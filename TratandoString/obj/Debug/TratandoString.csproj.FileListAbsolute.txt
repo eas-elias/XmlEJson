@@ -1,0 +1,6 @@
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\TratandoString\TratandoString\bin\Debug\TratandoString.pdb
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\TratandoString\TratandoString\obj\Debug\TratandoString.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\TratandoString\TratandoString\obj\Debug\TratandoString.pdb
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\TratandoString\TratandoString\bin\Debug\TratandoString.exe
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\TratandoString\TratandoString\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\TratandoString\TratandoString\obj\Debug\TratandoString.exe
